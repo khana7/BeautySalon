@@ -1,0 +1,126 @@
+.ourservices{
+    padding-top: 100px;
+    padding-bottom: 120px;
+    background-color:#F5F5F5;
+
+}
+
+.ourservice_uptitle{
+    text-transform: uppercase;
+    text-align:center;
+    font-size:15px;
+    font-family:'Manrope', sans-serif;
+    font-weight: 400;
+    color:#5C8692;  
+}
+
+.ourservices_title{
+    max-width:580px;
+    margin:0 auto;
+    font-family: 'Playfair Display', serif;
+    font-size: 45px;
+    font-weight: 400;
+    color:#141414;
+}
+
+.praces_wrapper_1{
+    display:flex;
+    margin-top:70px;
+    position:relative;
+    
+}
+
+.praces_wrapper_2{
+    display:flex;
+    margin-top:141px;
+}
+
+.prices_list{
+    width: 100%;
+    margin: 25px;
+}
+
+
+.prices_item{
+    
+    align-items: center;
+    max-width:540px;
+    
+}
+
+.prices_title {
+    display:flex;
+    justify-content:space-between;
+    border-bottom:3px solid #141414;
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    font-weight: 400;
+    margin-top:12px;
+}
+
+.prices_description{
+    display:flex;
+    align-items:center;
+    font-size:18px;
+    font-family:'Manrope', sans-serif;
+    font-weight: 400;
+    color:#555555;
+    margin:13px auto; 
+}
+
+.prices_line{
+    border-bottom:1px solid #134134;
+}
+
+
+.cucumber{
+    max-width:600px;
+    z-index:2;
+    
+}
+
+.squares{
+    position:absolute;
+    bottom: -45px;
+    left: 536px;
+    z-index:1;
+}
+
+
+.appoinment{
+    display: flex;
+    align-items: center;
+    padding: 19px 32px;
+    letter-spacing: 0.1em;
+    font-family:'Manrope', sans-serif;
+    font-size:13px;
+    background-color: #FFFFFF;
+    border: 2px solid  #5C8692;
+    color: #141414;
+    text-transform: uppercase;
+    margin-top: 44px;
+}
+
+.mask{
+    max-width:604px;
+    margin-top:-140px;
+    z-index:2;
+}
+/* .ourservices{
+    max-width:130px;
+    margin: 0 auto;
+    text-transform: uppercase;
+    font-size:15px;
+    font-family:'Manrope', sans-serif;
+    font-weight: 400;
+    color:#5C8692;
+
+}
+
+.ourservices_text{
+    max-width: 580px;
+    font-family: 'Playfair Display', serif;
+    font-size: 45px;
+    font-weight: 400;
+    color:#141414;
+}  */

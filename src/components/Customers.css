@@ -1,0 +1,112 @@
+.cards{
+    display:flex;
+    margin-top:73px;
+    margin:20px;
+}
+
+.customers_wrapper{
+    max-width: 600px;
+    
+}
+
+.customers_wrapper2{
+    max-width:576px;
+}
+
+.customers{
+    display:flex;
+    background-color: #EBF3F5;
+    padding:100px;
+}
+
+.customers_uptitle{
+    text-transform: uppercase;
+    text-align:center;
+    font-size:15px;
+    font-family:'Manrope', sans-serif;
+    font-weight: 400;
+    color:#5C8692;  
+}
+
+.customers_title{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 45px;
+    font-weight: 400;
+    color:#141414;
+}
+
+.customers_text{
+    margin:20px;
+    font-size:19px;
+    font-family:'Manrope', sans-serif;
+    font-weight: 400;
+    color:#141414;   
+    background-color: #FFFFFF;
+    align-items: center;
+    justify-content: center;
+    padding: 33px;
+    
+}
+
+
+.customers_text2{
+    margin:20px;
+    font-size:19px;
+    font-family:'Manrope', sans-serif;
+    font-weight: 400;
+    color:#141414;   
+    background-color: #FFFFFF;
+    align-items: center;
+    justify-content: center;
+    padding: 33px;
+    
+}
+
+
+
+.customers_card{
+    display:flex;
+    margin:20px;
+    background-color:#1E2C30;
+    padding: 22px 30px;
+}
+
+.customer_info{
+    display:block;
+}
+
+.customers_name{
+    
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    font-weight: 400;
+    color:#FFFFFF;
+}
+
+.customers_citizen{
+    padding-top:0.5em;
+    align-items:center;
+    justify-content:center;
+    font-size:14px;
+    font-family:'Manrope', sans-serif;
+    font-weight: 400;
+    color:#FFFFFF;
+}
+
+.james{
+   width: 75px;
+   height: 75px;
+   margin-right: 20px;
+}
+
+.customers_vector_wrapper {
+    margin: 0 0 0 auto;
+}
+
+
+.customers_vector{
+    margin-right:10px;
+    height:55px;
+
+}

@@ -1,0 +1,58 @@
+.benefits{
+    padding:99px;
+    background-color:#F5F5F5;
+}
+
+.benefits_uptitle{
+    text-transform: uppercase;
+    text-align:center;
+    font-size:15px;
+    font-family:'Manrope', sans-serif;
+    font-weight: 400;
+    color:#5C8692;
+}
+
+.benefits_title{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 45px;
+    font-weight: 400;
+    color:#141414;
+}
+
+
+.arrows{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px; 
+    margin-left:25px;
+}
+
+.arrow_footer{
+    display:flex;
+}
+
+.arrow_uptitle{
+    max-width:329px;
+    font-family: 'Playfair Display', serif;
+    font-size: 26px;
+    font-weight: 400;
+    color:#141414;
+    margin-top:19px;
+}
+
+.arrow_title{
+   
+    font-size:18px;
+    font-family:'Manrope', sans-serif;
+    font-weight: 400;
+    color:#555555;
+    margin-top:11px;
+}
+
+.arrow{
+    max-width: 33%;
+    margin-bottom: 50px;
+}

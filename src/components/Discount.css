@@ -1,0 +1,99 @@
+.discount{
+    display: block;
+    padding: 180px;
+    background-color:#EBF3F5;
+}
+
+.discount_uptitle{
+    text-transform: uppercase;
+    font-size:15px;
+    font-family:'Manrope', sans-serif;
+    font-weight: 400;
+    color:#5C8692;
+}
+
+.discount_title{
+    max-width:430px;
+    font-family: 'Playfair Display', serif;
+    font-size: 45px;
+    font-weight: 400;
+    color:#141414;
+}
+
+.discount_text{
+    margin-top:18px;
+    max-width:541px;
+    font-size:18px;
+    font-family:'Manrope', sans-serif;
+    font-weight: 400;
+    color:#555555;
+}
+
+.form{
+    max-width: 455px;
+    background-color: #FFFFFF;
+    margin-top:10px;
+    margin-left:40px;
+}
+.form_input{
+    position: absolute;
+    padding: 18px 10px 10px 50px;
+    width: 355px;
+    border:2px solid #5C8692;
+}
+.name_photo{
+    position: relative;
+    margin: 3px;
+}
+
+.email_photo{
+    position: relative;
+    margin: 3px;
+}
+.tel_photo{
+    position: relative;
+    margin: 3px;
+}
+.book_photo{
+    position: relative;
+    
+}
+
+
+
+
+.text-form_input{
+    padding: 50px 10px 10px 50px;
+    width: 355px;
+    border:2px solid hsl(193, 23%, 47%);
+    position: absolute;
+}
+
+/* .textarea-wapper{
+    position: relative;
+} */
+
+.feed_photo {
+    z-index: 10;
+    position: relative;
+    
+}
+
+.form-input_wrapper{
+    margin: 20px;
+    
+}
+
+.discount_btn{
+    margin: 20px 20px 20px ;
+    margin-top: 40px;
+    padding:23px 32px ;
+    width: 355px;
+    border:2px solid #5C8692;
+    background-color:#5C8692;
+}
+
+.discount_wrapper{
+    display: flex;
+    
+}

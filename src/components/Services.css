@@ -1,0 +1,52 @@
+.services{
+    display:flex;
+    padding:80px 105px;
+    background-color:#F5F5F5;
+    
+}
+
+.spa{
+    max-width:380px;
+}
+
+.spa_name{
+    font-size:26px;
+    font-family: 'Playfair Display', serif;
+    color:#141414;
+    margin-top:10px;
+
+}
+
+.spa_text{
+    font-size:18px;
+    font-family:'Manrope', sans-serif;
+    color:#555555;
+    font-weight:400;
+    margin-top:10px;
+}
+
+.read_more{
+    display: flex;
+    align-items: center;
+    padding: 19px 32px;
+    letter-spacing: 1.56px;
+    font-family:'Manrope', sans-serif;
+    font-size:13px;
+    background-color: #F5F5F5;
+    border: 1px solid #5C8692;
+    color:#141414;
+    text-transform: uppercase;
+    margin-top: 44px;
+    transition: 0.2s linear;
+}
+
+.read_more:hover{
+    color:rgb(161, 237, 237);
+}
+
+.spa_photo{
+    width:365px;
+    height:280px;
+    
+}
+

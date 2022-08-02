@@ -1,0 +1,66 @@
+.about{
+    display:flex;
+    padding:140px;
+    background-color:#EBF3F5;
+}
+
+.right{
+    max-width:600px;
+}
+
+.left{
+    max-width:500px;
+}
+
+.photo{
+    max-width:500px;
+
+}
+
+.lifestyle_name{
+    text-transform:uppercase;
+    font-family:'Manrope', sans-serif;
+    font-size:15px;
+    color:#5C8692;
+}
+
+.lifestyle_text{
+    max-width:519px;
+    font-family: 'Playfair Display', serif;
+    font-size:45px;
+    color:#141414;
+
+}
+
+.lifestyle_longtext{
+    font-family:'Manrope', sans-serif;
+    color:#555555;
+    font-size:18px;
+    margin-top:14px;
+    
+
+}
+
+.card_items {
+    display:flex;
+    margin-top:50px;
+}
+
+.card_item{
+    border: 2px solid #1E2C30;
+    text-align:center;
+    padding: 22px 0px;
+    margin-right:12px;
+    width:160px;
+}
+
+.card_item_text{
+    font-family: 'Playfair Display', serif;
+    font-size:22px;
+    color:#141414;
+}
+
+.card_item_photo{
+    width: 58px;
+    height: 64px;
+}
