@@ -1,5 +1,13 @@
 This website is about Beauty Salon , Khanaiym Belekova COM-19
+
+
+
 Made by using React and JS
+
+Contains : Nav bar, Header, Footer with contacts, and layout
+
+
+
 Commits in files, components and js files
 
 
