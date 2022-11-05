@@ -8,7 +8,7 @@ Contains : Nav bar, Header, Footer with contacts, and layout
 
 
 
-Commits in files, components and js files
+Rich Commits in files, components and js files
 
 
 
