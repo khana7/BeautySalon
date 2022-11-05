@@ -1,3 +1,9 @@
+This website is about Beauty Salon , Khanaiym Belekova COM-19
+Made by using React and JS
+
+
+
+
 ![alt tag](screens/1.png)
 ![alt tag](screens/2.png)
 ![alt tag](screens/3.png)
